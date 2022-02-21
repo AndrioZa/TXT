@@ -1,0 +1,4 @@
+Title:The background does not change correctly. On the button "try for free". Feature page
+Summary:When you hover over the "try for free" button, the color does not change
+Expected Result:The color of the button changes to black on hover
+Actual Result:On hover, the color of the button does not change to black

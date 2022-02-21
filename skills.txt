@@ -1,0 +1,5 @@
+skills:attentiveness
+skills:perseverance
+skills:learnability
+skills:communication skills
+skoills:Responsibility
